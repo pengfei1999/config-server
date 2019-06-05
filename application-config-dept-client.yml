@@ -16,7 +16,7 @@ eureka:
   instance:
     instance-id: dept-8003
     prefer-ip-address: true
-	
+
 info:
   app.name: pf-dept
   company.name: pf.com
