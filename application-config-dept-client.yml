@@ -7,7 +7,7 @@ server:
 spring:
  profiles: dev
  application: 
-  name: config-dept-client
+  name: dept
  
 eureka:
   client:
