@@ -3,7 +3,7 @@
   active: dev
 ---
 server:
- port:8003
+ port: 8003
 spring:
  profiles: dev
  application: 
